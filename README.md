@@ -11,3 +11,17 @@ JavaScript es un lenguaje de programación que los desarrolladores utilizan para
 
 Brendan Eich fue quien desarrollo javascript para NetScape. Este lenguaje de programación le da muchas más posibilidades a los navegadores. Con JavaScript podemos, por ejemplo, crear controles en la búsqueda de un contenido para que solo devuelva resultados con contenido, no textos vacíos.
 
+
+# Que caracteristicas tiene javascript?
+
+Simplicidad. Posee una estructura sencilla que lo vuelve más fácil de aprender e implementar.
+
+Velocidad. Se ejecuta más rápido que otros lenguajes y favorece la detección de los errores.
+
+Versatilidad. Es compatible con otros lenguajes, como: PHP, Perl y Java. ...
+
+Popularidad. ...
+
+Carga del servidor. ...
+
+Actualizaciones.
